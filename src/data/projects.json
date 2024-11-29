@@ -1,7 +1,7 @@
 [
   {
     "title": "Machine Learning Jazz!",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/music.png",
     "description": "An attention recurrent neural network (RNN) trained to create jazz improvisations",
     "skills": ["Tensorflow", "Python", "Web Scraping", "Audio Processing"],
     "demo": "https://brightlaw9.github.io/ML_Jazz/",
@@ -9,7 +9,7 @@
   },
   {
     "title": "TeamUp App",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/task-list.png",
     "description": "Task management app for effective team collaboration",
     "skills": ["Flutter", "Firebase"],
     "demo": "https://team-up1-a6ad3.web.app/",
@@ -17,7 +17,7 @@
   },
   {
     "title": "Raspberry Pi Spy Robot!",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/spy_robot.png",
     "description": "Remote controlled robot with an attached camera streaming action live",
     "skills": ["Python", "BrickPi/Raspberry Pi", "Sockets", "UDP, TCP/IP"],
     "demo": "https://the-creative-law.medium.com/a-fun-usage-of-robotics-spy-robot-6133fc7633fc",
