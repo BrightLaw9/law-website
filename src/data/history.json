@@ -1,0 +1,44 @@
+[
+  {
+    "role": "Full Stack Developer",
+    "organisation": "Globe Math",
+    "startDate": "Sept 2024",
+    "endDate": "Nov 2024",
+    "experiences": ["Developed custom equation and variable nodes for frontend", 
+                      "Connected FastAPI backend, used REST API for data transfer"],
+    "imageSrc": "history/globe.png"
+  },
+  {
+    "role": "Finalist - TinkerFlow Project",
+    "organisation": "Hack the North",
+    "startDate": "Sept 2024",
+    "endDate": "Sept 2024",
+    "experiences": ["Built an app that makes building hardware projects easier with LLMs", 
+                      "Configured and integrated image classification model in recognizing parts"],
+    "imageSrc": "history/htn.png"
+  },
+  {
+    "role": "Student Software Intern",
+    "organisation": "Evertz",
+    "startDate": "July 2023",
+    "endDate": "December 2023",
+    "experiences": [
+      "Built testing visualization frontend using React",
+      "Built test suite & pipelines on GitLab - goal of CI/CD",
+      "Worked and ran code in Docker containers", 
+      "Understanding of TCP/IP and UDP for decoding streams"
+    ],
+    "imageSrc": "history/evertz.png"
+  }, 
+  {
+    "role": "Programming Lead",
+    "organisation": "FIRST Robotics",
+    "startDate": "Sept, 2021",
+    "endDate": "Jun, 2024",
+    "experiences": [
+      "Developed modular Java code for various robot subsystems (arm, shooter, drivetrain)",
+      "Managed structure of code and coordinated programming team with of 15+ members"
+    ],
+    "imageSrc": "history/first.png"
+  }
+]
