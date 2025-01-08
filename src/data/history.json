@@ -26,7 +26,7 @@
       "Built testing visualization frontend using React",
       "Built test suite & pipelines on GitLab - goal of CI/CD",
       "Worked and ran code in Docker containers", 
-      "Understanding of TCP/IP and UDP for decoding streams"
+      "TCP/IP and UDP for decoding streams"
     ],
     "imageSrc": "history/evertz.png"
   }, 

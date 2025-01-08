@@ -7,12 +7,14 @@ export const About = () => {
   return (
     <section className={styles.container} id="about">
       <h2 className={styles.title}>About</h2>
+      <div className={styles.imageFadeContainer}>
+          <img
+            src={getImageUrl("about/brain-and-creative.png")}
+            alt="Fusion between technical and creative thinking"
+            className={styles.aboutImage}
+          />
+        </div>
       <div className={styles.content}>
-        <img
-          src={getImageUrl("about/brain-and-creative.png")}
-          alt="Fusion between technical and creative thinking"
-          className={styles.aboutImage}
-        />
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
             <img className={styles.descImage} src={getImageUrl("about/arrow.png")} alt="Cursor icon" />

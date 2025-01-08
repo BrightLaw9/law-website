@@ -26,8 +26,29 @@
 }
 
 .aboutImage {
-  width: 35%;
-  margin-right: 9%;
+  width: 30%; 
+  margin-right: 8%;
+}
+
+.imageFadeContainer {
+  display: flex; 
+  justify-content: center;
+  margin-bottom: 5%;
+  width: 100%;
+  height: 100%;
+}
+
+.image-container::before {
+  transform: skewX(-25deg); 
+}
+
+.image-container::after {
+  transform: skewX(25deg); 
+}
+
+.imageFadeContainer:hover img { 
+  transition: transform 0.4s;
+  transform: scale(1.1); 
 }
 
 .descImage {
@@ -65,6 +86,7 @@
 
 .aboutItem h3 {
   font-size: 25px;
+  letter-spacing: 1.2px;
   font-weight: 600;
 }
 
